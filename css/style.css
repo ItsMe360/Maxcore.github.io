@@ -36,6 +36,23 @@ section{
     padding-top: 7.5rem;
     padding-bottom: 2rem;
 }
+/* Scrollbar Css Start */
+  
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #0d0d0d;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(0deg, #5eff00, #5eff00);
+    height: 20%;
+    opacity: 1;
+  }
+  
+  /* Scrollbar Css End */
 
 .btn{
     display: inline-block;
