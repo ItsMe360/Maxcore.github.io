@@ -72,7 +72,7 @@ section{
 
 .btn:hover{
     transform: scale(1.1);
-    filter: drop-shadow(0 0 100px #5eff00)drop-shadow(0 0 1px #5eff00)drop-shadow(0 0 10px #5eff00);
+    
 }
 
 .heading{
